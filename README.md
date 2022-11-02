@@ -5,5 +5,6 @@
 
 ## UML Diagram:
 
-![UML Diagram](./src/UML-Diagram.PNG)
+![UML Diagram](./images/UML-Diagram.PNG)
 
+![Full Airline System](./images/full_airline_system.PNG)
